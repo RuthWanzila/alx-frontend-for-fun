@@ -1,1 +1,1 @@
-Sass&scss
+# sass_scss
